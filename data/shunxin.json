@@ -1,0 +1,1325 @@
+{
+  "company": "顺心捷达",
+  "pricing": [
+    {
+      "destination": "广东省内/东莞市",
+      "base_weight_kg": 10,
+      "base_price": 15.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.58
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/中山市",
+      "base_weight_kg": 10,
+      "base_price": 15.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.58
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/广州市",
+      "base_weight_kg": 10,
+      "base_price": 15.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.58
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/珠海市",
+      "base_weight_kg": 10,
+      "base_price": 15.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.58
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/佛山市",
+      "base_weight_kg": 10,
+      "base_price": 15.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.58
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/惠州市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/深圳市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广州天河",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广州越秀",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/江门市",
+      "base_weight_kg": 10,
+      "base_price": 15.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.6
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.58
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/汕头市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.7
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.68
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.65
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/潮州市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.7
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.68
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.65
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/揭阳市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.7
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.68
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.65
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/汕尾市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/湛江市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.7
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.68
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.65
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/茂名市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.7
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.68
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.65
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/阳江市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.7
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.68
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.65
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/韶关市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/清远市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/河源市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/梅州市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/肇庆市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/云浮市",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.65
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.6
+        }
+      ]
+    },
+    {
+      "destination": "浙江省舟山市",
+      "base_weight_kg": 10,
+      "base_price": 40.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.2
+        }
+      ]
+    },
+    {
+      "destination": "浙江省",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.9
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.85
+        }
+      ]
+    },
+    {
+      "destination": "福建省",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.95
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.9
+        }
+      ]
+    },
+    {
+      "destination": "江苏省",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.9
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.88
+        }
+      ]
+    },
+    {
+      "destination": "广西省",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.95
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.9
+        }
+      ]
+    },
+    {
+      "destination": "湖南省",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.9
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.88
+        }
+      ]
+    },
+    {
+      "destination": "江西省",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.95
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.9
+        }
+      ]
+    },
+    {
+      "destination": "安徽省",
+      "base_weight_kg": 10,
+      "base_price": 20.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.9
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.88
+        }
+      ]
+    },
+    {
+      "destination": "湖北省",
+      "base_weight_kg": 10,
+      "base_price": 25.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.1
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.98
+        }
+      ]
+    },
+    {
+      "destination": "湖北省恩施自治州",
+      "base_weight_kg": 10,
+      "base_price": 30.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.2
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.1
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "湖北省十堰市",
+      "base_weight_kg": 10,
+      "base_price": 30.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.2
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.1
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "上海市",
+      "base_weight_kg": 10,
+      "base_price": 25.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 0.95
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.88
+        }
+      ]
+    },
+    {
+      "destination": "河南省",
+      "base_weight_kg": 10,
+      "base_price": 25.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.1
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.0
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 0.98
+        }
+      ]
+    },
+    {
+      "destination": "山东省",
+      "base_weight_kg": 10,
+      "base_price": 28.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.25
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.15
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "山西省",
+      "base_weight_kg": 10,
+      "base_price": 28.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.2
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.1
+        }
+      ]
+    },
+    {
+      "destination": "天津市",
+      "base_weight_kg": 10,
+      "base_price": 28.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.2
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.1
+        }
+      ]
+    },
+    {
+      "destination": "陕西省",
+      "base_weight_kg": 10,
+      "base_price": 30.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.2
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.1
+        }
+      ]
+    },
+    {
+      "destination": "重庆市",
+      "base_weight_kg": 10,
+      "base_price": 28.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.2
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.1
+        }
+      ]
+    },
+    {
+      "destination": "重庆市自治州县",
+      "base_weight_kg": 10,
+      "base_price": 35.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.2
+        }
+      ]
+    },
+    {
+      "destination": "河北省",
+      "base_weight_kg": 10,
+      "base_price": 25.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.2
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.1
+        }
+      ]
+    },
+    {
+      "destination": "四川省",
+      "base_weight_kg": 10,
+      "base_price": 28.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.2
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.1
+        }
+      ]
+    },
+    {
+      "destination": "四川省自治州县",
+      "base_weight_kg": 10,
+      "base_price": 35.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.4
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.3
+        }
+      ]
+    },
+    {
+      "destination": "贵州省",
+      "base_weight_kg": 10,
+      "base_price": 28.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.4
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.2
+        }
+      ]
+    },
+    {
+      "destination": "贵州省自治州县",
+      "base_weight_kg": 10,
+      "base_price": 30.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.4
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.3
+        }
+      ]
+    },
+    {
+      "destination": "云南省",
+      "base_weight_kg": 10,
+      "base_price": 28.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.4
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.2
+        }
+      ]
+    },
+    {
+      "destination": "云南省自治州县",
+      "base_weight_kg": 10,
+      "base_price": 30.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.7
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.6
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.5
+        }
+      ]
+    },
+    {
+      "destination": "北京市",
+      "base_weight_kg": 10,
+      "base_price": 40.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.35
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.2
+        }
+      ]
+    },
+    {
+      "destination": "海南省",
+      "base_weight_kg": 10,
+      "base_price": 25.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 1.6
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.5
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.4
+        }
+      ]
+    },
+    {
+      "destination": "辽宁省",
+      "base_weight_kg": 10,
+      "base_price": 35.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 2.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.8
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.7
+        }
+      ]
+    },
+    {
+      "destination": "吉林省",
+      "base_weight_kg": 10,
+      "base_price": 35.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 2.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.8
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.7
+        }
+      ]
+    },
+    {
+      "destination": "黑龙江",
+      "base_weight_kg": 10,
+      "base_price": 35.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 2.0
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 1.8
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 1.7
+        }
+      ]
+    },
+    {
+      "destination": "甘肃省",
+      "base_weight_kg": 10,
+      "base_price": 40.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 2.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 2.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 2.2
+        }
+      ]
+    },
+    {
+      "destination": "内蒙古",
+      "base_weight_kg": 10,
+      "base_price": 35.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 2.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 2.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 2.2
+        }
+      ]
+    },
+    {
+      "destination": "宁夏省",
+      "base_weight_kg": 10,
+      "base_price": 40.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 2.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 2.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 2.2
+        }
+      ]
+    },
+    {
+      "destination": "青海省",
+      "base_weight_kg": 10,
+      "base_price": 40.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 2.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 2.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 2.2
+        }
+      ]
+    },
+    {
+      "destination": "新疆省",
+      "base_weight_kg": 10,
+      "base_price": 40.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 3.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 3.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 3.2
+        }
+      ]
+    },
+    {
+      "destination": "西藏省",
+      "base_weight_kg": 10,
+      "base_price": 40.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 11,
+          "max_weight": 500,
+          "price_per_kg": 3.5
+        },
+        {
+          "min_weight": 501,
+          "max_weight": 1000,
+          "price_per_kg": 3.3
+        },
+        {
+          "min_weight": 1001,
+          "max_weight": 99999,
+          "price_per_kg": 3.2
+        }
+      ]
+    }
+  ]
+}

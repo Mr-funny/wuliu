@@ -1,0 +1,257 @@
+{
+  "company": "极兔速递",
+  "pricing": [
+    {
+      "destination": "广东省内/东莞市",
+      "base_weight_kg": 1,
+      "base_price": 8.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 0.7
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/中山市",
+      "base_weight_kg": 1,
+      "base_price": 8.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 0.7
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/广州市",
+      "base_weight_kg": 1,
+      "base_price": 8.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 0.7
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/珠海市",
+      "base_weight_kg": 1,
+      "base_price": 8.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 0.7
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/佛山市",
+      "base_weight_kg": 1,
+      "base_price": 8.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 0.7
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/惠州市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/深圳市",
+      "base_weight_kg": 1,
+      "base_price": 8.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 0.7
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/江门市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/汕头市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/潮州市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/揭阳市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/汕尾市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/湛江市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/茂名市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/阳江市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/韶关市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/清远市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/河源市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/梅州市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/肇庆市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    },
+    {
+      "destination": "广东省内/云浮市",
+      "base_weight_kg": 1,
+      "base_price": 10.0,
+      "extra_weight_tiers": [
+        {
+          "min_weight": 2,
+          "max_weight": 99999,
+          "price_per_kg": 1.0
+        }
+      ]
+    }
+  ]
+}
