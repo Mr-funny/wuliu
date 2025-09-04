@@ -10,7 +10,8 @@ export const metadata: Metadata = {
   keywords: ['物流价格', '运费计算', '快递费用', '物流比价', '安能快运', '顺心捷达', '韵达快运', '极兔速递'],
   authors: [{ name: '物流价格计算器' }],
   robots: 'index, follow',
-  metadataBase: new URL('https://wuliu-calculator.vercel.app'),
+  // GitHub Pages 部署域名（用户/组织页 + 仓库名）
+  metadataBase: new URL('https://mr-funny.github.io/wuliu/'),
   openGraph: {
     title: '物流价格计算器 - 快速比较物流费用',
     description: '一站式物流价格比较工具，帮助您找到最经济的物流方案',
@@ -37,7 +38,8 @@ export default function RootLayout({
   return (
     <html lang="zh-CN">
       <head>
-        <link rel="icon" href="/favicon.ico" />
+        {/* Pages 下需加上 basePath 前缀 */}
+        <link rel="icon" href="/wuliu/favicon.ico" />
         <meta name="theme-color" content="#3b82f6" />
       </head>
       <body className={inter.className}>
